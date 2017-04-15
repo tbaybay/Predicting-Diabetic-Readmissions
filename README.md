@@ -1,6 +1,6 @@
 # Diabetics Readmissions
 This notebook explores a dataset of diabetics' health records at US hospitals between 1998 and 2008. The data is available at https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008.
-In the notebook I provide an (length, possibly *too* lengthy) exploratory analysis of the dataset, before going on to evaluate the performance of a few linear ML models against it.
+In the notebook I provide an (lengthy, possibly *too* lengthy) exploratory analysis of the dataset, before going on to evaluate the performance of a few linear ML models against it.
 
 The introduction to the document provides a detailed overview of what's in it:
 ### Submission overview
